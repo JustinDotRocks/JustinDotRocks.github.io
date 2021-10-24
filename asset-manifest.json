@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18a913f2.chunk.css",
+    "main.js": "/static/js/main.486cad13.chunk.js",
+    "main.js.map": "/static/js/main.486cad13.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.63440f18.js",
+    "runtime-main.js.map": "/static/js/runtime-main.63440f18.js.map",
+    "static/js/2.f576fb1c.chunk.js": "/static/js/2.f576fb1c.chunk.js",
+    "static/js/2.f576fb1c.chunk.js.map": "/static/js/2.f576fb1c.chunk.js.map",
+    "static/js/3.3ec6439d.chunk.js": "/static/js/3.3ec6439d.chunk.js",
+    "static/js/3.3ec6439d.chunk.js.map": "/static/js/3.3ec6439d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.18a913f2.chunk.css.map": "/static/css/main.18a913f2.chunk.css.map",
+    "static/js/2.f576fb1c.chunk.js.LICENSE.txt": "/static/js/2.f576fb1c.chunk.js.LICENSE.txt",
+    "static/media/about-me-2.2bb5c490.svg": "/static/media/about-me-2.2bb5c490.svg",
+    "static/media/coffee-cup.531cbd84.svg": "/static/media/coffee-cup.531cbd84.svg",
+    "static/media/computer.df58e82a.svg": "/static/media/computer.df58e82a.svg",
+    "static/media/food.9a495037.svg": "/static/media/food.9a495037.svg",
+    "static/media/hero-image-2.49d31bfa.svg": "/static/media/hero-image-2.49d31bfa.svg",
+    "static/media/mineral.f400d7fa.svg": "/static/media/mineral.f400d7fa.svg",
+    "static/media/plant.6e7e70d1.svg": "/static/media/plant.6e7e70d1.svg",
+    "static/media/soccer-ball.aa981146.svg": "/static/media/soccer-ball.aa981146.svg",
+    "static/media/solar-system.8c37b90a.svg": "/static/media/solar-system.8c37b90a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63440f18.js",
+    "static/js/2.f576fb1c.chunk.js",
+    "static/css/main.18a913f2.chunk.css",
+    "static/js/main.486cad13.chunk.js"
+  ]
+}
